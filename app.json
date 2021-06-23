@@ -1,0 +1,6 @@
+{
+  "name": "LimeSurvey",
+  "description": "A Lime Survey for PHP web-based server",
+  "repository": "https://github.com/geiser/limesurvey",
+  "addons": []
+}
